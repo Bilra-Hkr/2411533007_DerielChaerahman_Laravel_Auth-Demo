@@ -38,13 +38,13 @@ Untuk mengunduh dan menjalankan proyek ini, silakan ikuti langkah-langkah beriku
     composer install
     npm install
     ```
-3.  **Setup Environment**
+3.  **Setup Environment** :
    Duplikat file .env.example menjadi .env, lalu atur konfigurasi database-nya.
     ```bash
     cp .env.example .env
     php artisan key:generate
     ```
-4. **Run Migrasi dan Seeder**
+4. **Run Migrasi dan Seeder** :
    Generate akun dummy admin untuk testing dan akses halaman /admin.
    ```bash
     php artisan migrate --seed
@@ -55,11 +55,11 @@ Untuk mengunduh dan menjalankan proyek ini, silakan ikuti langkah-langkah beriku
     npm run dev
     ```
    
-6. **Halaman Web**
-Perhatikan pada terminal yang menjalankan command `php artisan serve`, silahkan klik link "http://127.0.0.1:8000" atau ketik di browser link tersebut untuk memunculkan halaman web.
+6. **Halaman Web** : 
+    Perhatikan pada terminal yang menjalankan command `php artisan serve`, silahkan klik link "http://127.0.0.1:8000" atau ketik di browser link tersebut untuk memunculkan halaman web.
 
-7. **Daftar Halaman Web**
-http://127.0.0.1:8000/x : ganti "x" dengan "login", "register", "dashboard", "profile", "admin".
+7. **Daftar Halaman Web** :
+    http://127.0.0.1:8000/x : ganti "x" dengan "login", "register", "dashboard", "profile", "admin".
  
 
    
