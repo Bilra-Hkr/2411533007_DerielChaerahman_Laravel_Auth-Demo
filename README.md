@@ -30,7 +30,7 @@ Untuk mengunduh dan menjalankan proyek ini, silakan ikuti langkah-langkah beriku
 
 1. **Clone repositori**
     ```bash
-    git clone <URL_GITHUB_REPO_INI>
+    git clone =https://github.com/Bilra-Hkr/2411533007_DerielChaerahman_Laravel_Auth-Demo
     cd auth-demo
     ```
 2. **Install dependensi PHP & Node.js**
