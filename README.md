@@ -60,6 +60,13 @@ Untuk mengunduh dan menjalankan proyek ini, silakan ikuti langkah-langkah beriku
 
 7. **Daftar Halaman Web** :
     http://127.0.0.1:8000/x : ganti "x" dengan "login", "register", "dashboard", "profile", "admin".
- 
+
+ # Akun Testing (Dibuat via Seeder)
+
+Untuk menguji Tugas 3 (Halaman Admin), silakan gunakan akun berikut untuk login:
+**Email:** admin@gmail.com  
+**Password:** admin123  
+**Role:** admin
+
 
    
