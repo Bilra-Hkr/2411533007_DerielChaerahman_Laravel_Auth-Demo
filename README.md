@@ -14,7 +14,7 @@ Repositori pengerjaan tugas implementasi autentikasi project Laravel 12 mengguna
 - **Tugas 3 (Bonus):** Penambahan sistem otorisasi Role (User & Admin), pembuatan `AdminMiddleware`, dan halaman khusus `/admin` yang menampilkan tabel daftar pengguna.
 
 ## Konfigurasi env. local host
-Pada project ini saya menjalankannya secara localhost menggunakan XAMPP dengan setingan berikut :
+1. Pada project ini saya menjalankannya secara localhost menggunakan XAMPP dengan setingan berikut :
     ```bash
     DB_CONNECTION=mysql
     DB_HOST=127.0.0.1
