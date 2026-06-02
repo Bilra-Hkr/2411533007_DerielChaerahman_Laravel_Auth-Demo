@@ -13,8 +13,8 @@ Repositori pengerjaan tugas implementasi autentikasi project Laravel 12 mengguna
 - **Tugas 2:** Penambahan field `no_hp` pada halaman _Edit Profile_.
 - **Tugas 3 (Bonus):** Penambahan sistem otorisasi Role (User & Admin), pembuatan `AdminMiddleware`, dan halaman khusus `/admin` yang menampilkan tabel daftar pengguna.
 
-## Konfigurasi env. local host
-1. Pada project ini saya menjalankannya secara localhost menggunakan XAMPP dengan setingan berikut :
+## Konfigurasi env.
+1. Pada project ini saya menjalankannya secara localhost menggunakan XAMPP dengan konfigurasi .env berikut :
     ```bash
     DB_CONNECTION=mysql
     DB_HOST=127.0.0.1
