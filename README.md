@@ -64,6 +64,7 @@ Untuk mengunduh dan menjalankan proyek ini, silakan ikuti langkah-langkah beriku
  # Akun Testing (Dibuat via Seeder)
 
 Untuk menguji Tugas 3 (Halaman Admin), silakan gunakan akun berikut untuk login:
+
 **Email:** admin@gmail.com  
 **Password:** admin123  
 **Role:** admin
