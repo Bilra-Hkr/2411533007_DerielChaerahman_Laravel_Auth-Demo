@@ -54,8 +54,10 @@ Untuk mengunduh dan menjalankan proyek ini, silakan ikuti langkah-langkah beriku
     php artisan serve
     npm run dev
     ```
+   
 6. **Halaman Web**
 Perhatikan pada terminal yang menjalankan command `php artisan serve`, silahkan klik link "http://127.0.0.1:8000" atau ketik di browser link tersebut untuk memunculkan halaman web.
+
 7. **Daftar Halaman Web**
 http://127.0.0.1:8000/x : ganti "x" dengan "login", "register", "dashboard", "profile", "admin".
  
